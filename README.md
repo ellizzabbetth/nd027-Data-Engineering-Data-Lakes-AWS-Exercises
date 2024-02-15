@@ -1,4 +1,4 @@
-![Screenshot](./project/readme-images/aws_cert.png)
+![Screenshot](./project/readme_images/aws_cert.png)
 
 # Purpose of This Repo
 
